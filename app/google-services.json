@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1020797061201",
+    "firebase_url": "https://chatbot8bits.firebaseio.com",
+    "project_id": "chatbot8bits",
+    "storage_bucket": "chatbot8bits.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020797061201:android:18fcdf53b654b762",
+        "android_client_info": {
+          "package_name": "leonardo_soares_santos.projetochatbot8bits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020797061201-n2dob2matkbs8asnbehp8g4esqpsa9rh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "leonardo_soares_santos.projetochatbot8bits",
+            "certificate_hash": "c0f26a29d2c254615d65caefa3faf3149b79865d"
+          }
+        },
+        {
+          "client_id": "1020797061201-b7cdp0j7f7610mcn31lks6qcbuqfgl6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7NA0Rgl3O5Sm3zlt5dfBTSmnsIJ8pw3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020797061201-b7cdp0j7f7610mcn31lks6qcbuqfgl6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
